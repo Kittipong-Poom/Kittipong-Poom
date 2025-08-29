@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Nextjs , Typescript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-kittipong.vercel.app/]([https://portfolio-kittipong.vercel.app/](https://port-resume-seven.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://port-resume-seven.vercel.app/](https://port-resume-seven.vercel.app/)
 
 - 💬 Ask me about **Web Developer**
 
